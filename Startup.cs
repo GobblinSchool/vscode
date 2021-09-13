@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 //commit-5
+//commit-6 in feature branch
 namespace myapp
 {
     public class Startup
